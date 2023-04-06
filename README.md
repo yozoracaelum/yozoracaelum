@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://yozoracaelum.github.io/Julian-Portfolio/](https://yozoracaelum.github.io/Julian-Portfolio/)
 
+- 💬 Ask me about **Python, Algorithm & Programming, Numerical Method**
+
 - 📫 How to reach me **edelmanjr17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
