@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Julian Evan Chrisnanto</h1>
 <h3 align="center">Undergraduate Student Focused on Physics at Padjadjaran University</h3>
 
-- 🔭 I’m currently working as Research Intern at **Plabs.ID**
+- 🔭 I’m currently working as Research Intern at PLABS.ID : **Face Recognition and Eye-Gaze Detection for Proctoring Remote Exams: A Case Study in Online Education Using CNN**
 
 - 🌱 I’m currently learning **Deep Learning focused on CNN**
 
 - 👨‍💻 All of my projects are available at [https://yozoracaelum.github.io/Julian-Portfolio/](https://yozoracaelum.github.io/Julian-Portfolio/)
+
+- 📫 How to reach me **edelmanjr17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
